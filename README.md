@@ -28,7 +28,7 @@ This project was developed with guidance from a YouTube tutorial: [React Movie A
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/movie-app.git
+   git clone https://github.com/6lmalki/movie-app.git
    cd movie-app
    ```
 
