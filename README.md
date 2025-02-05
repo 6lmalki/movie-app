@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-This is a **React.js** movie application that allows users to browse popular movies and add them to their **favorites list**. The app fetches movie data from **The Movie Database (TMDB) API** and provides a clean and interactive user experience. The project is built using **Vite** for fast performance and modern frontend development.
+This is a **React.js** movie application built with **JavaScript** and **Vite**. It allows users to browse popular movies and add them to their favorites list. The app fetches movie data from **The Movie Database (TMDB) API** and provides a clean and interactive user experience. The project leverages **Vite** for fast performance and modern frontend development.
 
 This project was developed with guidance from a YouTube tutorial: [React Movie App Tutorial](https://youtu.be/G6D9cBaLViA?si=6AVNfp3weDKiDezU), which helped shape its structure and implementation.
 
@@ -17,6 +17,7 @@ This project was developed with guidance from a YouTube tutorial: [React Movie A
 ## 🛠️ Technologies Used
 
 - **React.js** (Functional Components, Hooks)
+- **JavaScript** (Programming Language)
 - **React Router** (Navigation & Routing)
 - **Context API** (Global State Management)
 - **Vite** (Fast Development & Hot Module Replacement)
